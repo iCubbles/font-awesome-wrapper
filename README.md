@@ -1,4 +1,7 @@
 ## font-awesome-wrapper
 
 <hr/>
-Note This page is generated based on the markdown-syntax. For details see <http://daringfireball.net/projects/markdown/syntax/>
+font-awesome wrapper for usage in cubbles.
+
+      font-awesome: The iconic font and CSS toolkit
+      See [font-awesome](http://fontawesome.io/)
