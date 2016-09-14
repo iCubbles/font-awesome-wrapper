@@ -1,0 +1,35 @@
+{
+    "name": "font-awesome-4.3.0",
+    "groupId": "",
+    "version": "1.1.0",
+    "modelVersion": "9.1.0",
+    "docType": "webpackage",
+    "author": {
+        "name": "Judit Ross",
+        "email": "judit.ross@incowia.com"
+    },
+    "contributors": [],
+    "homepage": "http://fontawesome.io/",
+    "license": "MIT",
+    "keywords": [
+        "library",
+        "font-awesome",
+        "3rd-party"
+    ],
+    "man": [],
+    "runnables": [],
+    "artifacts": {
+        "utilities": [
+            {
+                "artifactId": "font-awesome",
+                "description": "Wrapper for the origin iconic font and CSS toolkit varsion 4.3.0",
+                "resources": [
+                    {
+                        "prod": "vendor/css/font-awesome.min.css",
+                        "dev": "vendor/css/font-awesome.css"
+                    }
+                ]
+            }
+        ]
+    }
+}
